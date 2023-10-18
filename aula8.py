@@ -4,7 +4,7 @@
 nome = 'Jander'
 sobrenome = 'Melo'
 idade = 33
-ano_nascimento = 1990
+ano_nascimento = 2023 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.79
 
