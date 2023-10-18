@@ -9,10 +9,6 @@ imc = peso / (altura ** 2) # peso / (altura X altura)
 # peso 84 quilos e seu imc é
 # 1123123.12312312312
 
-print('Jander Wow tem', altura,'de altura')
-print('Pesa', peso,'quilos e seu IMC e')
-print(imc)
-
 # utilizando fstring
 print(f'Jander WoW tem {altura} de altura')
-print(f'Pesa {peso} quilos e tem IMC e {imc}')
+print(f'Pesa {peso} quilos e tem IMC e {imc:.2f}')
